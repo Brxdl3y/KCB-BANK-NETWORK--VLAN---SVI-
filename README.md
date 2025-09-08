@@ -51,10 +51,15 @@ Linking: Access ports to PCs, trunks between switches, routed port from CORE →
 3) IP Plan & VLANs
 
 VLAN	Name	Subnet	SVI (CORE)
+
 10	CUSTOMER_SERVICE	20.0.17.0/24	20.0.17.2
+
 40	FINANCE_ACCOUNTING	10.5.10.0/24	10.5.10.1
+
 30	HR	130.9.1.0/24	130.9.1.1
+
 20	ATM_ZONE	11.0.1.0/24	11.0.1.3
+
 50	IT_NETWORK	124.9.1.0/24	124.9.1.12
 P2P	Purpose	Subnet	CORE IP	EDGE IP
 PTp	CORE ↔ EDGE	37.20.10.0/30	37.20.10.2	37.20.10.1
