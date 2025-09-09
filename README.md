@@ -19,15 +19,10 @@ OSPFv2 peering (MD5 authentication) between core and edge
 Static + default routing logic (fail‑safe simplicity at the edge)
 
 NAT overload at the edge for private subnets
-
 VLAN hardening: access/trunk best practices, native VLAN quarantine, DTP disabled
-
 L2 security: Port‑Security, BPDU‑Guard, DHCP Snooping, Dynamic ARP Inspection, IP Source Guard
-
 L3 security: granular inter‑VLAN ACLs (principle of least privilege)
-
 Network services: DHCP (per‑VLAN scopes), NTP, logging, SNMPv3, SSH‑only management
-
 Optional add‑ons for polish: NetFlow (NBAR‑lite), QoS marking, banners, and structured comments
 
 Why this matters : It demonstrates comfort with both design trade‑offs and hands‑on CLI across switching, routing, and security — the trio most common in campus/branch roles.
