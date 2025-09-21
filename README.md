@@ -1,12 +1,12 @@
-KCB Bank HQ Network Lab 
+**KCB Bank HQ Network Lab** 
 
-Elevator pitch: A bank‑grade campus + edge design that balances security, scalability, and operational pragmatism. Built on multilayer switching (SVIs + routed uplink), OSPF with MD5 authentication, NAT at the WAN edge, and layered L2 security (Port‑Security, DHCP Snooping, DAI).
+A bank‑grade campus + edge design that balances **security, scalability, and operational pragmatism**. Built on multilayer switching (SVIs + routed uplink), OSPF with MD5 authentication, NAT at the WAN edge, and layered L2 security (Port‑Security, DHCP Snooping, DAI).
 
-1) Scenario & Objectives
+1) **Scenario & Objectives**
 
-Organization: KCB Bank — HQ site
+Organization: **KCB Bank Head Quater**
 
-Goal: Provide segmented connectivity for departments (Customer Service, Finance & Accounting, HR, IT/Network, ATM zone) with secure internet egress via an ISP. Demonstrate enterprise‑grade design patterns you’d expect in a financial environment.
+Goal: **Provide segmented connectivity** for departments (Customer Service, Finance & Accounting, HR, IT/Network, ATM zone) with secure internet egress via an ISP. Demonstrate enterprise‑grade design patterns you’d expect in a financial environment.
 
 What you’ll see in this lab:
 
